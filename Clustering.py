@@ -3,7 +3,7 @@
 PROJETO FINAL: SEGMENTAÇÃO DE CLIENTES COM MACHINE LEARNING CLÁSSICO
 Análise de Personalidade de Clientes usando Clustering
 =============================================================================
-Autor: [Seu Nome]
+Autor: [Luiz Arthur, Lucas Oliverio]
 Dataset: Customer Personality Analysis (Kaggle)
 Objetivo: Segmentar clientes para otimização de campanhas de marketing
 =============================================================================
