@@ -773,14 +773,6 @@ print(f"""
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ✅ PROJETO CONCLUÍDO COM SUCESSO!
-
-📌 PRÓXIMOS PASSOS SUGERIDOS:
-   1. Validar os perfis de clientes com especialistas de marketing
-   2. Desenvolver estratégias de campanha específicas para cada cluster
-   3. Implementar sistema de predição de cluster para novos clientes
-   4. Monitorar a evolução dos clusters ao longo do tempo
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """)
 
 print("\n" + "=" * 80)

@@ -1,4 +1,0 @@
-Modelo,Silhouette Score,Davies-Bouldin Index,Calinski-Harabasz Score,Número de Clusters
-K-Means,0.24591621732156094,1.599160751627561,796.0514682811785,2
-Hierarchical,0.21862962150448037,1.704389032470309,704.4659972105119,2
-DBSCAN,,,,1
