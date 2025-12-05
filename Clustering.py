@@ -122,7 +122,7 @@ if df_processed['Income'].isnull().sum() > 0:
 print("\n4.2 FEATURE ENGINEERING - CRIAÇÃO DE NOVAS VARIÁVEIS")
 
 # Idade do cliente
-current_year = 2024
+current_year = 2025
 df_processed['Age'] = current_year - df_processed['Year_Birth']
 print(f"✓ Variável 'Age' criada (idade do cliente)")
 
@@ -406,7 +406,7 @@ print(f"  - Silhouette Score: {hierarchical_silhouette:.4f}")
 print(f"  - Davies-Bouldin Index: {hierarchical_davies_bouldin:.4f}")
 print(f"  - Calinski-Harabasz Score: {hierarchical_calinski:.2f}")
 
-# 7.3 MODELO C: DBSCAN (Opcional - para comparação)
+# 7.3 MODELO C: DBSCAN
 print(f"\n7.3 MODELO C: DBSCAN (Densidade)")
 dbscan = DBSCAN(eps=3.5, min_samples=10)
 dbscan_labels = dbscan.fit_predict(X_scaled)
